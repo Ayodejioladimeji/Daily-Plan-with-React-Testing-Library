@@ -11,3 +11,7 @@ You can view the live site here [Daily Plan](https://daily-plan.vercel.app).
 ### Author
 
 ### Layobright
+
+#### Development still in progress
+
+Still writing the test using both Unit and Integration Testing
